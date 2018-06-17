@@ -1,0 +1,1 @@
+Cflag=-Wall -g
